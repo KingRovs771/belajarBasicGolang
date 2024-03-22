@@ -6,10 +6,10 @@ import (
 
 func main(){ 
 
-	basic()
+	//basic()
 	//For()
 	//percabanganIF()
-	Array()
+	//Array()
 }
 
 func basic(){
